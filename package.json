@@ -37,6 +37,7 @@
         "> 1%"
     ],
     "dependencies": {
+        "babel-polyfill": "^6.23.0",
         "compression": "^1.6.2",
         "express": "^4.15.2"
     }
