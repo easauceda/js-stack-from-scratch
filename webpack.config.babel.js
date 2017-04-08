@@ -23,7 +23,7 @@ export default {
   resolve: {
     extensions: ['.js', '.jsx'],
   },
-  devserver: {
+  devServer: {
     port: WDS_PORT,
   },
 }
